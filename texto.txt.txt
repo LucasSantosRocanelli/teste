@@ -2,3 +2,4 @@ from software
 dark souls 1
 dark souls 2
 dark souls 3
+elden ring
